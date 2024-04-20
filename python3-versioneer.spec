@@ -55,7 +55,7 @@ rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(644,root,root,755)
-%doc README.md details.md developers.md
+%doc LICENSE README.md details.md developers.md
 %attr(755,root,root) %{_bindir}/versioneer
 %attr(755,root,root) %{_bindir}/versioneer-3
 %{py3_sitescriptdir}/versioneer.py
