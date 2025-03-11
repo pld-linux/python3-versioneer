@@ -6,7 +6,7 @@ Summary:	Easy VCS-based management of project version strings
 Summary(pl.UTF-8):	Łatwe, oparte o VCS zarządzanie łańcuchami wersji projektu
 Name:		python3-versioneer
 Version:	0.29
-Release:	2
+Release:	3
 License:	Public Domain
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/versioneer/
